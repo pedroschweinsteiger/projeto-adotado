@@ -1,9 +1,9 @@
 body{
     color: rgb(233, 215, 13);
-    background-color: rgba(27, 27, 25, 0.886);
+    background-color: rgba(0, 0, 0, 0.886);
 }
 section{
-   background: rgb(21, 20, 20);
+   background: rgb(0, 0, 0);
    padding-bottom: 80px;
    padding-top: 80px;
    display: flex;
