@@ -2,3 +2,8 @@ body{
     color: white;
     background-color: black;
 }
+section{
+   background: rgb(198, 208, 204);
+   padding-bottom: 80px;
+   padding-top: 80px;
+}
