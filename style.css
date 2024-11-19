@@ -1,9 +1,11 @@
 body{
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     background-color: black;
 }
 section{
-   background: rgb(148, 137, 137);
+   background: rgb(202, 195, 195);
    padding-bottom: 80px;
    padding-top: 80px;
+   display: flex;
+   justify-content: center;
 }
